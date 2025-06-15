@@ -60,4 +60,3 @@ calculate() {
         echo "Результат: $result"
 }
 calculate
-~
